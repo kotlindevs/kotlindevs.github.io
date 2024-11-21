@@ -12173,12 +12173,13 @@ pre .code {
 .about-img-holder {
   min-width: 400px;
   max-width: 400px;
-  margin-right: 20px;
+  margin-right: 32px;
 }
 
 .about-img-holder .about-img {
   width: 100%;
   margin-bottom: 15px;
+  border-radius: 25px;
 }
 
 .about-caption {
